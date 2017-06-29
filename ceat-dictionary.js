@@ -51,7 +51,7 @@ module.exports = {
         "Olá. {{bomDiaNoiteTarde}}\n\n{{ajuda_geral}}",
         "Oi. {{bomDiaNoiteTarde}}\n\n{{ajuda_geral}}",
         "{{bomDiaNoiteTarde}}, em que posso ser útil?\n\n{{ajuda_geral}}",
-        "Olá, meu nome é Lais, em que posso ajudar?\n\n{{ajuda_geral}}"
+        "Olá, meu nome é ASAP, em que posso ajudar?\n\n{{ajuda_geral}}"
     ],
 
     "saudacao_geral": [
