@@ -27,7 +27,9 @@ module.exports = {
         "Atualmente eu posso tentar te ajudar com os tópicos abaixo:\n\n" +
         "- Está problemas ou dúvidas com algum aplicativo (ex.: entregas, logística reversa, webloja)?  Me informe o seu problema e talvez possa te ajudar.\n\n" +
         "- Solicitação de reset de senha em algum sistema\n\n" +
-        "- Problemas simples com PDV (PDV não está funcionando)"        
+        "- Problemas simples com PDV (PDV não está funcionando)\n\n"
+        +"Posso se ajudar se estiver com problemas para utilizar a camera,"
+        +" sincronizar dados, se logar, realizar baixa de um determinado item de entrega"
     ],
     "pai": [
         "Nunca conheci meu pai, mas fui criado por algumas pessoas."

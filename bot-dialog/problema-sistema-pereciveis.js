@@ -1,5 +1,5 @@
 const util = require('./util');
-//http://perecivel.lasa.com.br/perecivel-manual/
+
 module.exports = [
     {
         "id": "probsist_pereciveis_problema_invalido",
@@ -13,7 +13,7 @@ module.exports = [
         },
         "action": {
             "reply": [
-                "Infelizmente ainda não posso ajudar com esse problema do Perecíveis.\n\n" +
+                "Infelizmente ainda não posso ajudar com esse problema do Entregas.\n\n" +
                 "Mas você pode consultar o hotsite do sistema de entregas buscando mais informações:",
                 "http://www.drogariaspacheco.com.br/central-de-atendimento"
             ],
