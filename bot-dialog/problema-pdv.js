@@ -12,7 +12,7 @@ module.exports = [
             "reply": [
                 "Antes de abrirmos um chamado, siga os procedimentos abaixo:",
                 "1-Verifique se o cabo está devidamente conectado",
-                util.replyStaticMedia("pdv1.png"),
+                util.replyStaticMedia("pdv1.jpg"),
                 "2-Verifique se os componentes estão encaixados",
                 util.replyStaticMedia("pdv2.jpg"),
                 "3-Verifique se o cabo de força está conectado",
